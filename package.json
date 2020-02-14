@@ -29,7 +29,7 @@
     "slick-carousel": "^1.8.1",
     "topojson": "3.0.2",
     "xlsx": "^0.14.1",
-    "yarn": "^1.12.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
